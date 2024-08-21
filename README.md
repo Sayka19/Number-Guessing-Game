@@ -1,1 +1,3 @@
-# Number-Guessing-Game
+The Number Guessing Game project in C is a classic and straightforward programming exercise aimed at beginners to help them grasp basic concepts of the C language. In this project, the program randomly generates a number within a specified range, and the player has to guess what that number is within a limited number of attempts.
+The project typically involves key programming concepts like random number generation,user input,control structures,looping mechanism and feedback system. It reinforces understanding of loops, conditionals, input/output operations, and the concept of randomization in C programming. Additionally, the project can be easily expanded with features like difficulty levels, input validation, and even a scoring mechanism to enhance the learning experience.
+
